@@ -1,0 +1,11 @@
+addition = (68 + 1)
+subtraction = (70-1)
+multiply = (12 * 12)
+divide = (552 / 8)
+modulo = (69 % 100)
+
+print("[x] 68 + 1 = ", addition)
+print("[x] 70 - 1 = ", subtraction)
+print("[x] 12 * 12 = ", multiply)
+print("[x] 552 / 8 = ", divide)
+print("[x] 69 % 100 = ", modulo)
