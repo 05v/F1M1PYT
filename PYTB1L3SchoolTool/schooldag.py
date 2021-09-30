@@ -6,7 +6,7 @@ if dagcheck == ("maandag") or dagcheck == ("dinsdag") or dagcheck == ("woensdag"
     weekdag = True
 elif dagcheck == ("zaterdag") or dagcheck == ("zondag"):
     weekend = True
-else: 
+else:
     print("Dat is geen optie, kies uit een van de dagen. (CAPS SENSITIVE)")
 
 if weekdag:
